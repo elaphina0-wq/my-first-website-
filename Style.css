@@ -1,4 +1,4 @@
-/* Page background & base */
+
 body {
   background-color: #f0f8ff;
   font-family: Arial, sans-serif;
@@ -7,21 +7,18 @@ body {
   padding: 24px;
 }
 
-/* Heading */
 h1 {
   color: #2c3e50;
   font-size: 2rem;
   margin-bottom: 12px;
 }
 
-/* Paragraph */
 p {
   color: #34495e;
   font-size: 1.05rem;
   margin: 12px 0;
 }
 
-/* Image styling */
 img {
   width: 90%;
   max-width: 400px;
@@ -29,7 +26,6 @@ img {
   margin-top: 12px;
 }
 
-/* Link styling */
 a {
   color: #e74c3c;
   text-decoration: none;
